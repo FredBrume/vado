@@ -4,24 +4,20 @@ self.__precacheManifest = [
     "url": "/vado/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "7d2e615a948bbdc49668",
-    "url": "/vado/static/css/main.175dbc1e.chunk.css"
+    "revision": "779718b69318ce308c75",
+    "url": "/vado/static/css/main.71f0515e.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
     "url": "/vado/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "32ee888014614edb69c9",
-    "url": "/vado/static/js/1.32ee8880.chunk.js"
+    "revision": "d455e9521b171e226f4b",
+    "url": "/vado/static/js/1.d455e952.chunk.js"
   },
   {
     "revision": "a75a6943516300569b22",
     "url": "/vado/static/js/runtime~main.a75a6943.js"
-  },
-  {
-    "revision": "ffac757fc64d1e414422bf204f1a4f87",
-    "url": "/vado/static/media/burgerone.ffac757f.jpg"
   },
   {
     "revision": "8e2a9a464e813684f0fd3a6cfd7634c7",
@@ -34,6 +30,10 @@ self.__precacheManifest = [
   {
     "revision": "b9798832272a6fa1bb4658812d1c62aa",
     "url": "/vado/static/media/lemon.b9798832.jpg"
+  },
+  {
+    "revision": "ffac757fc64d1e414422bf204f1a4f87",
+    "url": "/vado/static/media/burgerone.ffac757f.jpg"
   },
   {
     "revision": "00d709bd3511c16e056ef1be0320b11c",
@@ -56,40 +56,44 @@ self.__precacheManifest = [
     "url": "/vado/static/media/burgersix.31269da1.jpg"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/vado/static/media/slick.ced611da.eot"
+    "revision": "da0db70418edc61ae066380c383a449c",
+    "url": "/vado/static/media/berry.da0db704.jpg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/vado/static/media/slick.b7c9e1e4.woff"
   },
   {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/vado/static/media/slick.ced611da.eot"
+  },
+  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/vado/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "7d2e615a948bbdc49668",
-    "url": "/vado/static/js/main.7d2e615a.chunk.js"
+    "revision": "779718b69318ce308c75",
+    "url": "/vado/static/js/main.779718b6.chunk.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/vado/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/vado/static/media/icons.0ab54153.woff2"
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/vado/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
     "url": "/vado/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "faff92145777a3cbaf8e7367b4807987",
-    "url": "/vado/static/media/icons.faff9214.woff"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/vado/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/vado/static/media/icons.b87b9ba5.ttf"
+    "revision": "faff92145777a3cbaf8e7367b4807987",
+    "url": "/vado/static/media/icons.faff9214.woff"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -116,10 +120,6 @@ self.__precacheManifest = [
     "url": "/vado/static/media/outline-icons.82f60bd0.svg"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/vado/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
     "url": "/vado/static/media/brand-icons.e8c322de.woff2"
   },
@@ -128,15 +128,19 @@ self.__precacheManifest = [
     "url": "/vado/static/media/brand-icons.a046592b.woff"
   },
   {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/vado/static/media/brand-icons.13db00b7.eot"
+  },
+  {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/vado/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
-    "revision": "32ee888014614edb69c9",
-    "url": "/vado/static/css/1.b3c36b53.chunk.css"
+    "revision": "d455e9521b171e226f4b",
+    "url": "/vado/static/css/1.49bd8fe2.chunk.css"
   },
   {
-    "revision": "b7e4437b4de6c3c4a5418106301e0696",
+    "revision": "4b2a8b9e64f33fd75de9944442c05e34",
     "url": "/vado/index.html"
   }
 ];
