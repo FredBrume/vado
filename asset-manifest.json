@@ -7,7 +7,7 @@
   "static/js/1.b369cc3c.chunk.js.map": "/vado/static/js/1.b369cc3c.chunk.js.map",
   "runtime~main.js": "/vado/static/js/runtime~main.a75a6943.js",
   "runtime~main.js.map": "/vado/static/js/runtime~main.a75a6943.js.map",
-  "static/media/semantic.min.css": "/vado/static/media/brand-icons.c5ebe0b3.ttf",
+  "static/media/semantic.min.css": "/vado/static/media/brand-icons.a1a749e8.svg",
   "static/media/burger5.jpg": "/vado/static/media/burger5.8d9d969c.jpg",
   "static/media/App.css": "/vado/static/media/berry.da0db704.jpg",
   "static/media/FoodLogo.png": "/vado/static/media/FoodLogo.8e2a9a46.png",
@@ -22,6 +22,6 @@
   "static/css/main.642a75d2.chunk.css.map": "/vado/static/css/main.642a75d2.chunk.css.map",
   "static/css/1.b3c36b53.chunk.css.map": "/vado/static/css/1.b3c36b53.chunk.css.map",
   "index.html": "/vado/index.html",
-  "precache-manifest.17fb573d652d380dd2fb0f3403ed7376.js": "/vado/precache-manifest.17fb573d652d380dd2fb0f3403ed7376.js",
+  "precache-manifest.c29d49193336ed556cbac184a06ed27d.js": "/vado/precache-manifest.c29d49193336ed556cbac184a06ed27d.js",
   "service-worker.js": "/vado/service-worker.js"
 }
