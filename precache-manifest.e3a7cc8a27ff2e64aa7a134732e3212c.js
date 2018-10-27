@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/vado/static/media/slick.f97e3bbf.svg"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/vado/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "779718b69318ce308c75",
-    "url": "/vado/static/css/main.71f0515e.chunk.css"
+    "revision": "d5ae75acf852e38ce98e",
+    "url": "/vado/static/css/main.273d7fc8.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -60,52 +60,52 @@ self.__precacheManifest = [
     "url": "/vado/static/media/berry.da0db704.jpg"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/vado/static/media/slick.d41f55a7.ttf"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/vado/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/vado/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/vado/static/media/slick.ced611da.eot"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/vado/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "779718b69318ce308c75",
-    "url": "/vado/static/js/main.779718b6.chunk.js"
+    "revision": "d5ae75acf852e38ce98e",
+    "url": "/vado/static/js/main.d5ae75ac.chunk.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/vado/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "faff92145777a3cbaf8e7367b4807987",
-    "url": "/vado/static/media/icons.faff9214.woff"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/vado/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/vado/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/vado/static/media/icons.8e3c7f55.eot"
-  },
-  {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/vado/static/media/icons.b87b9ba5.ttf"
-  },
-  {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
+    "revision": "faff92145777a3cbaf8e7367b4807987",
+    "url": "/vado/static/media/icons.faff9214.woff"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/vado/static/media/outline-icons.701ae6ab.eot"
   },
   {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
+  },
+  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/vado/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/vado/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "962a1bf31c081691065fe333d9fa8105",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/vado/static/css/1.49bd8fe2.chunk.css"
   },
   {
-    "revision": "4b2a8b9e64f33fd75de9944442c05e34",
+    "revision": "f27e149622b11e97af96fb9bf180659d",
     "url": "/vado/index.html"
   }
 ];
