@@ -60,6 +60,10 @@ self.__precacheManifest = [
     "url": "/vado/static/media/berry.da0db704.jpg"
   },
   {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/vado/static/media/slick.ced611da.eot"
+  },
+  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/vado/static/media/slick.b7c9e1e4.woff"
   },
@@ -68,12 +72,12 @@ self.__precacheManifest = [
     "url": "/vado/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/vado/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "e963b42ef364ef260b98",
     "url": "/vado/static/js/main.e963b42e.chunk.js"
+  },
+  {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/vado/static/media/flags.9c74e172.png"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -92,12 +96,12 @@ self.__precacheManifest = [
     "url": "/vado/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/vado/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -112,6 +116,10 @@ self.__precacheManifest = [
     "url": "/vado/static/media/outline-icons.ad97afd3.ttf"
   },
   {
+    "revision": "e8c322de9658cbeb8a774b6624167c2c",
+    "url": "/vado/static/media/brand-icons.e8c322de.woff2"
+  },
+  {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/vado/static/media/outline-icons.82f60bd0.svg"
   },
@@ -120,20 +128,12 @@ self.__precacheManifest = [
     "url": "/vado/static/media/brand-icons.13db00b7.eot"
   },
   {
-    "revision": "e8c322de9658cbeb8a774b6624167c2c",
-    "url": "/vado/static/media/brand-icons.e8c322de.woff2"
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/vado/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "a046592bac8f2fd96e994733faf3858c",
     "url": "/vado/static/media/brand-icons.a046592b.woff"
-  },
-  {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/vado/static/media/flags.9c74e172.png"
-  },
-  {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/vado/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "d455e9521b171e226f4b",
