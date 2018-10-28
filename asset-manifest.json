@@ -1,7 +1,7 @@
 {
-  "main.css": "/vado/static/css/main.cfd09728.chunk.css",
-  "main.js": "/vado/static/js/main.65faa73e.chunk.js",
-  "main.js.map": "/vado/static/js/main.65faa73e.chunk.js.map",
+  "main.css": "/vado/static/css/main.5780ac64.chunk.css",
+  "main.js": "/vado/static/js/main.4738b150.chunk.js",
+  "main.js.map": "/vado/static/js/main.4738b150.chunk.js.map",
   "static/css/1.49bd8fe2.chunk.css": "/vado/static/css/1.49bd8fe2.chunk.css",
   "static/js/1.d455e952.chunk.js": "/vado/static/js/1.d455e952.chunk.js",
   "static/js/1.d455e952.chunk.js.map": "/vado/static/js/1.d455e952.chunk.js.map",
@@ -17,11 +17,11 @@
   "static/media/burgerfive.jpg": "/vado/static/media/burgerfive.8d9d969c.jpg",
   "static/media/burgersix.jpg": "/vado/static/media/burgersix.31269da1.jpg",
   "static/media/berry.jpg": "/vado/static/media/berry.da0db704.jpg",
-  "static/media/slick-theme.css": "/vado/static/media/slick.b7c9e1e4.woff",
+  "static/media/slick-theme.css": "/vado/static/media/slick.f97e3bbf.svg",
   "static/media/ordernow.jpg": "/vado/static/media/ordernow.0db15a90.jpg",
-  "static/css/main.cfd09728.chunk.css.map": "/vado/static/css/main.cfd09728.chunk.css.map",
+  "static/css/main.5780ac64.chunk.css.map": "/vado/static/css/main.5780ac64.chunk.css.map",
   "static/css/1.49bd8fe2.chunk.css.map": "/vado/static/css/1.49bd8fe2.chunk.css.map",
   "index.html": "/vado/index.html",
-  "precache-manifest.3a02a5969377d8cda5b43cb85073e613.js": "/vado/precache-manifest.3a02a5969377d8cda5b43cb85073e613.js",
+  "precache-manifest.449a0ddc80bcce61a614b20a68d3f986.js": "/vado/precache-manifest.449a0ddc80bcce61a614b20a68d3f986.js",
   "service-worker.js": "/vado/service-worker.js"
 }
