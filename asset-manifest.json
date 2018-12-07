@@ -1,7 +1,7 @@
 {
   "main.css": "/vado/static/css/main.bd7e7fdf.chunk.css",
-  "main.js": "/vado/static/js/main.6f00f662.chunk.js",
-  "main.js.map": "/vado/static/js/main.6f00f662.chunk.js.map",
+  "main.js": "/vado/static/js/main.8c296dd2.chunk.js",
+  "main.js.map": "/vado/static/js/main.8c296dd2.chunk.js.map",
   "static/css/1.c76b3384.chunk.css": "/vado/static/css/1.c76b3384.chunk.css",
   "static/js/1.76ca93a4.chunk.js": "/vado/static/js/1.76ca93a4.chunk.js",
   "static/js/1.76ca93a4.chunk.js.map": "/vado/static/js/1.76ca93a4.chunk.js.map",
@@ -22,6 +22,6 @@
   "static/css/main.bd7e7fdf.chunk.css.map": "/vado/static/css/main.bd7e7fdf.chunk.css.map",
   "static/css/1.c76b3384.chunk.css.map": "/vado/static/css/1.c76b3384.chunk.css.map",
   "index.html": "/vado/index.html",
-  "precache-manifest.c9c661b73e5d2e057542276652366acd.js": "/vado/precache-manifest.c9c661b73e5d2e057542276652366acd.js",
+  "precache-manifest.88b240ecfec78287c46145bc2d1da696.js": "/vado/precache-manifest.88b240ecfec78287c46145bc2d1da696.js",
   "service-worker.js": "/vado/service-worker.js"
 }
