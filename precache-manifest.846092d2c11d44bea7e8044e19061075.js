@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "8d9d969cc49eb163d0010d0db2b5f05a",
-    "url": "/vado/static/media/burgerfive.8d9d969c.jpg"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/vado/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "26f5635eb980b6e751b8",
-    "url": "/vado/static/css/main.299c8f28.chunk.css"
+    "revision": "9763a9d4e89e864204ce",
+    "url": "/vado/static/css/main.70f69bee.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
     "url": "/vado/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "6f0a72ccff78501c4ac2",
-    "url": "/vado/static/js/1.6f0a72cc.chunk.js"
+    "revision": "c9006f2d6409b4d244d6",
+    "url": "/vado/static/js/1.c9006f2d.chunk.js"
   },
   {
     "revision": "a75a6943516300569b22",
     "url": "/vado/static/js/runtime~main.a75a6943.js"
-  },
-  {
-    "revision": "31269da1471996690cfc0cc558f1f56c",
-    "url": "/vado/static/media/burgersix.31269da1.jpg"
   },
   {
     "revision": "0e45cdec4060ef536fc9f1986cdca64c",
@@ -40,72 +36,52 @@ self.__precacheManifest = [
     "url": "/vado/static/media/lemon.b9798832.jpg"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/vado/static/media/slick.b7c9e1e4.woff"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/vado/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/vado/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/vado/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/vado/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "ffac757fc64d1e414422bf204f1a4f87",
-    "url": "/vado/static/media/burgerone.ffac757f.jpg"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/vado/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "00d709bd3511c16e056ef1be0320b11c",
-    "url": "/vado/static/media/burgertwo.00d709bd.jpg"
-  },
-  {
-    "revision": "40018918f79a01f4bbe048be01916ca4",
-    "url": "/vado/static/media/burgerthree.40018918.jpg"
-  },
-  {
-    "revision": "25d78ab5bde04732535dd92b583bd0c5",
-    "url": "/vado/static/media/burgerfour.25d78ab5.jpg"
-  },
-  {
-    "revision": "26f5635eb980b6e751b8",
-    "url": "/vado/static/js/main.26f5635e.chunk.js"
+    "revision": "31269da1471996690cfc0cc558f1f56c",
+    "url": "/vado/static/media/burgersix.31269da1.jpg"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/vado/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/vado/static/media/icons.8e3c7f55.eot"
-  },
-  {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/vado/static/media/icons.0ab54153.woff2"
+    "revision": "9763a9d4e89e864204ce",
+    "url": "/vado/static/js/main.9763a9d4.chunk.js"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/vado/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "701ae6abd4719e9c2ada3535a497b341",
-    "url": "/vado/static/media/outline-icons.701ae6ab.eot"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/vado/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/vado/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/vado/static/media/outline-icons.701ae6ab.eot"
   },
   {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "/vado/static/media/icons.962a1bf3.svg"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
@@ -116,12 +92,20 @@ self.__precacheManifest = [
     "url": "/vado/static/media/outline-icons.ad97afd3.ttf"
   },
   {
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/vado/static/media/icons.962a1bf3.svg"
+  },
+  {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/vado/static/media/outline-icons.82f60bd0.svg"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/vado/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "a046592bac8f2fd96e994733faf3858c",
+    "url": "/vado/static/media/brand-icons.a046592b.woff"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -132,15 +116,11 @@ self.__precacheManifest = [
     "url": "/vado/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
-    "revision": "a046592bac8f2fd96e994733faf3858c",
-    "url": "/vado/static/media/brand-icons.a046592b.woff"
+    "revision": "c9006f2d6409b4d244d6",
+    "url": "/vado/static/css/1.4fd505d3.chunk.css"
   },
   {
-    "revision": "6f0a72ccff78501c4ac2",
-    "url": "/vado/static/css/1.04fcfa70.chunk.css"
-  },
-  {
-    "revision": "a711ae2ab266feeb03d199374e2f8f3a",
+    "revision": "0fbb716b86bcc9b7c6df8447860d6911",
     "url": "/vado/index.html"
   }
 ];
