@@ -1,7 +1,7 @@
 {
-  "main.css": "/vado/static/css/main.bd7e7fdf.chunk.css",
-  "main.js": "/vado/static/js/main.65956bda.chunk.js",
-  "main.js.map": "/vado/static/js/main.65956bda.chunk.js.map",
+  "main.css": "/vado/static/css/main.25502c89.chunk.css",
+  "main.js": "/vado/static/js/main.ed707118.chunk.js",
+  "main.js.map": "/vado/static/js/main.ed707118.chunk.js.map",
   "static/css/1.4fd505d3.chunk.css": "/vado/static/css/1.4fd505d3.chunk.css",
   "static/js/1.8f5c5cb4.chunk.js": "/vado/static/js/1.8f5c5cb4.chunk.js",
   "static/js/1.8f5c5cb4.chunk.js.map": "/vado/static/js/1.8f5c5cb4.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/slick-theme.css": "/vado/static/media/slick.f97e3bbf.svg",
   "static/media/burgersix.jpg": "/vado/static/media/burgersix.31269da1.jpg",
   "static/media/ordernow.jpg": "/vado/static/media/ordernow.0db15a90.jpg",
-  "static/css/main.bd7e7fdf.chunk.css.map": "/vado/static/css/main.bd7e7fdf.chunk.css.map",
+  "static/css/main.25502c89.chunk.css.map": "/vado/static/css/main.25502c89.chunk.css.map",
   "static/css/1.4fd505d3.chunk.css.map": "/vado/static/css/1.4fd505d3.chunk.css.map",
   "index.html": "/vado/index.html",
-  "precache-manifest.ef03178b2c2b04351270fa8646bbde21.js": "/vado/precache-manifest.ef03178b2c2b04351270fa8646bbde21.js",
+  "precache-manifest.d8ef7ddbc0bdd7d60731f5f338457fc5.js": "/vado/precache-manifest.d8ef7ddbc0bdd7d60731f5f338457fc5.js",
   "service-worker.js": "/vado/service-worker.js"
 }
