@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/vado/static/media/icons.8e3c7f55.eot"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "/vado/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "e9a6882471a1c42852b2",
+    "revision": "65956bdadee4138b7bbd",
     "url": "/vado/static/css/main.bd7e7fdf.chunk.css"
   },
   {
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/vado/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/vado/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/vado/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/vado/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/vado/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "e9a6882471a1c42852b2",
-    "url": "/vado/static/js/main.e9a68824.chunk.js"
+    "revision": "65956bdadee4138b7bbd",
+    "url": "/vado/static/js/main.65956bda.chunk.js"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "/vado/static/media/icons.0ab54153.woff2"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/vado/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -76,6 +76,14 @@ self.__precacheManifest = [
     "url": "/vado/static/media/icons.b87b9ba5.ttf"
   },
   {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
+  },
+  {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/vado/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/vado/static/media/outline-icons.701ae6ab.eot"
   },
@@ -84,24 +92,16 @@ self.__precacheManifest = [
     "url": "/vado/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/vado/static/media/outline-icons.ef60a4f6.woff"
-  },
-  {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/vado/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
     "url": "/vado/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
-    "url": "/vado/static/media/outline-icons.82f60bd0.svg"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/vado/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
+    "url": "/vado/static/media/outline-icons.82f60bd0.svg"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/vado/static/css/1.4fd505d3.chunk.css"
   },
   {
-    "revision": "7eaceb7f473d3a9d753fede3226db74c",
+    "revision": "d36c9a34f80b50591284e550031c58db",
     "url": "/vado/index.html"
   }
 ];
